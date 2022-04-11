@@ -1,0 +1,2 @@
+.listOfGoods{display:flex;padding:auto;align-items:center;margin:auto}.listOfGoods .item{margin:20px}.listOfGoods .button{background-color:#9779b9;margin:20px;padding:10px;border:none;border-radius:10px;color:#fff}.listOfGoods .hidden{display:none}.listOfGoods .button:hover{background-color:pink;cursor:pointer}.listOfGoods .active{border:2px solid #9779b9;border-radius:10px;padding:10px;color:#9779b9;background-color:#f7e8f7}
+/*# sourceMappingURL=main.4019a857.chunk.css.map */
